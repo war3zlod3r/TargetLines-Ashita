@@ -1,0 +1,3 @@
+C:/Users/Claude/Documents/Max Projects/TargetLines-Ashita/out/build/x86-release/CMakeFiles/targetlines.dir
+C:/Users/Claude/Documents/Max Projects/TargetLines-Ashita/out/build/x86-release/CMakeFiles/edit_cache.dir
+C:/Users/Claude/Documents/Max Projects/TargetLines-Ashita/out/build/x86-release/CMakeFiles/rebuild_cache.dir

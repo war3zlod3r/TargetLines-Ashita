@@ -1,0 +1,10 @@
+LIBRARY "targetlines"
+EXPORTS
+
+;---------------------------------------------------------------------------------------------------
+; Ashita v4 plugin exports. All three are required for Ashita to accept the module.
+;---------------------------------------------------------------------------------------------------
+
+    expCreatePlugin             @1
+    expDestroyPlugin            @2
+    expGetInterfaceVersion      @3
