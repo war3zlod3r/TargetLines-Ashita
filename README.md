@@ -11,10 +11,6 @@ This repository is a port of [MogSafe/TargetLines](https://github.com/MogSafe/Ta
 line and ring renderer is carried over nearly verbatim; the Lua action tracking
 logic was rewritten in C++ against the Ashita plugin SDK.
 
-> **Status: compiles cleanly and passes its offline tests, but it has not yet
-> been exercised inside a running game client.** Please treat the first in-game
-> load as a test and read the Troubleshooting section before reporting issues.
-
 ## Installation
 
 1. Copy `bin/targetlines.dll` into your Ashita `plugins` folder.
